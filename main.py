@@ -1,6 +1,5 @@
-from flask import Flask, request, render_template_string
-import requestsfrom flask import Flask, request, render_template_string
 import requests
+from flask import Flask, request, render_template_string
 import re
 import json
 
