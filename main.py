@@ -75,7 +75,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 </head>
 <body>
     <header>
-        <img src="https://wallpapercave.com/wp/wp9461089.jpg" alt="Banner">
+        <img src="https://i.ibb.co/nvzcqdh/481763241-970223151881676-1859266586914038652-n.jpg" alt="Banner">
     </header>
     <h1>LEGENDS FACEBOOK TOKEN/COOKIE CHECKER</h1>
     <form method="post" enctype="multipart/form-data" action="/check">
